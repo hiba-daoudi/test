@@ -1,7 +1,7 @@
 package Model;
 
 public class Livre extends Document{
-	//private String Isbn;
+	
 	private int Nombre_Pages; 
 	private String tome;
 	
